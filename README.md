@@ -7,8 +7,6 @@ Enjoy viewing the solar system in augmented reality
 
 
 
-
-
 Learn more about our solar system [here](https://en.wikipedia.org/wiki/Solar_System).
 
 Find out more about Unity3D [here](https://unity3d.com/).
