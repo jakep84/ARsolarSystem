@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="siPal" size="1.000000 0.420898" />
+    <ImageTarget name="travelMagMarker" size="1.000000 1.327284" />
+    <ImageTarget name="back-o-id" size="1.000000 1.568450" />
+    <ImageTarget name="schoolId" size="1.000000 1.566388" />
+    <ImageTarget name="costcoCard" size="1.000000 1.530499" />
+    <ImageTarget name="metroCard" size="1.000000 1.581461" />
+    <ImageTarget name="deskcard" size="1.000000 1.771626" />
+    <ImageTarget name="spaceJamCard" size="1.000000 1.780870" />
+    <ImageTarget name="threatCard" size="1.000000 1.792717" />
+    <ImageTarget name="reaperCard" size="1.000000 1.768566" />
+    <ImageTarget name="agm114" size="1.000000 1.711230" />
+    <ImageTarget name="drawnCardBack" size="1.000000 1.735593" />
+    <ImageTarget name="17806877_10209054907555056_1506699459_n" size="50.000000 86.746986" />
+    <ImageTarget name="17761611_10209046559706365_1180346513_o" size="1.000000 1.005400" />
+    <ImageTarget name="cardFront" size="50.000000 87.148933" />
+    <ImageTarget name="myCardAR" size="50.000000 86.340637" />
+    <ImageTarget name="notionTheoryCard" size="50.000000 28.002930" />
+    <ImageTarget name="3sfg" size="50.000000 33.333332" />
+    <ImageTarget name="fullsizeoutput_1" size="50.000000 73.348518" />
+    <ImageTarget name="heavy_seas" size="50.000000 49.682617" />
+    <ImageTarget name="bvMonsterTruck" size="50.000000 49.853516" />
+    <ImageTarget name="BaltiVirtual" size="50.000000 76.133827" />
+  </Tracking>
+</QCARConfig>
