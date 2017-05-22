@@ -48,7 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Orbit.cs" />
      <Compile Include="Assets\Scripts\SpinFree.cs" />
-     <Compile Include="Assets\Scripts\appExit.cs" />
+     <Compile Include="Assets\Scripts\closeApp.cs" />
      <Compile Include="Assets\Scripts\rotate.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
