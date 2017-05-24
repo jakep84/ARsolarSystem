@@ -1,17 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/rotate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/closeApp.cs">
     <Files>
-      <File FileName="Assets/Scripts/Orbit.cs" Line="26" Column="27" NotebookId="2" />
+      <File FileName="Assets/Scripts/Orbit.cs" Line="26" Column="27" />
+      <File FileName="Assets/Scripts/closeApp.cs" Line="25" Column="4" />
     </Files>
-    <FloatingWindows>
-      <FloatingWindow WindowId="1" X="0" Y="23" Width="874" Height="936">
-        <Files>
-          <File FileName="Assets/Scripts/rotate.cs" Line="20" Column="1" />
-          <File FileName="Assets/Scripts/SpinFree.cs" Line="31" Column="4" NotebookId="1" />
-        </Files>
-      </FloatingWindow>
-    </FloatingWindows>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
