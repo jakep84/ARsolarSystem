@@ -10,7 +10,7 @@
 
 
 
-Enjoy viewing the solar system in augmented reality. I currently have two different versions here, one marker-based scene using Vuforia, one markerless scene using wikitude, both built using Unity3D. Enjoy
+View the solar system in augmented reality. I currently have two different versions here, one marker-based scene using Vuforia, one markerless scene using wikitude, both built using Unity3D.
 
 
 
