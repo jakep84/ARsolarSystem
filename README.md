@@ -6,7 +6,17 @@
 [![Solar System Demo](https://img.youtube.com/vi/1R2ROBePfbU/0.jpg)](https://www.youtube.com/watch?v=1R2ROBePfbU)
 
 
+
+
+
+
 Enjoy viewing the solar system in augmented reality. I currently have two different versions here, one marker-based scene using Vuforia, one markerless scene using wikitude, both built using Unity3D. Enjoy
+
+
+
+
+
+
 
 
 
