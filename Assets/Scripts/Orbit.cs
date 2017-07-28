@@ -16,7 +16,7 @@ public class Orbit : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
-		transform.Rotate (new Vector3 (0, Time.deltaTime * 0)); 
+		transform.Rotate (new Vector3 (0, Time.deltaTime * 0, 0)); 
 		OrbitAround (); /*make the object 1 rotate around object 2 */
 	}
 
